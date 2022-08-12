@@ -1,0 +1,99 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: lightgray; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: whitesmoke;
+  text-align:center;
+  padding: 1em;
+}
+
+
+.banner {
+  background-color: teal
+}
+
+p {
+  text-align:center;
+  padding: 2em
+}
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+  background-color:teal;
+  overflow: hidden;
+  padding: 1em;
+  text-align:center;
+}
+
+li {
+  display: inline;
+}
+
+ li a {
+   text-decoration:none;
+   color: whitesmoke; 
+   enter.font-size: 1.3em; 
+   enter.padding: 5em;
+ }
+
+li a:hover {
+background-color: lightgray;
+}
+/* STYLE BUTTONS */
+
+#myBtn {
+  display:block;
+  margin:0 auto;
+  background-color:teal;
+  padding:10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#quote {
+  text-align: center;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  width: 50%;
+}
+
+.text {
+  text-align:center;
+}
+
+p {
+  color:teal
+}
+
+footer {
+  padding:10px;
+  background-color:lightsteelblue;
+}
+
+h4 {
+  margin:15px;
+  color:teal;
+  text-align:center;
+}
+
+a {
+  text-align:center;
+  color:teal;
+}
+/* ADD MORE! */
